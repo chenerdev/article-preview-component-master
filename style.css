@@ -117,7 +117,7 @@ body {
   left: -30px;
   clip-path: circle(5% at 311px 34px);
   opacity: 0;
-  transition: all 0.5s ease-in-out;
+  transition: all .8s ease-in-out;
 }
 
 .popoon {
